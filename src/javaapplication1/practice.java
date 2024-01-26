@@ -5,7 +5,9 @@
 package javaapplication1;
 
 /**
+added bro,push,pull
  *
+ 
  * @author taranpreetsingh
  */
 public class practice {
